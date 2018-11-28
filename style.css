@@ -1,0 +1,49 @@
+body{
+  background-image: url(linden-school);
+  background-repeat: no-repeat;
+  background-size:auto;
+  background-position: center;
+  background-color:grey;
+}
+h1{
+  color:white;
+  font-size: 80px;
+  text-transform: capitalize;
+  text-align: center;
+  background-color:grey;
+  font-family: times new roman;
+}
+
+a{
+  font-size:50px;
+  text-decoration: none;
+  font-family: times new roman;
+  padding:20px;
+  margin:20px;
+  margin-left:550px;
+  border:0.5px solid black;
+  border-radius:20px;
+  display: block;
+  background-color:white;
+  color:limegreen;
+}
+a:hover{
+  font-size:60px;
+  text-decoration: none;
+  font-family: times new roman;
+  padding:20px;
+  border:0.5px solid black;
+  border-radius:20px;
+  text-align: center;
+  background-color:white;
+  color:limegreen;
+}
+div{
+display:inline-block;
+}
+
+footer{
+  font-size:48px;
+  text-align: center;
+  background-color:grey;
+}

@@ -1,0 +1,15 @@
+#gt{
+  text-align:left;
+  text-transform: capitalize;
+}
+#gh{
+  text-align:center;
+  text-transform: capitalize;
+}
+#admin{
+  margin-left:450px;
+  text-align: center;
+  text-transform: capitalize;
+  text-decoration: none;
+  color:white;
+}

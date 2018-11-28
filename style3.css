@@ -1,0 +1,45 @@
+div{
+  display: inline;
+  text-align: center;
+}
+#t{
+  margin:10px;
+  border:0.8px solid black;
+  font-size: 20px;
+}
+a{
+  font-size:20px;
+  text-decoration: none;
+  font-family: times new roman;
+  background-color:white;
+  color:limegreen;
+
+}
+form{
+
+  display:block;
+  width:300px;
+  border:2px solid black;
+  text-align: center;
+  margin-left: auto;
+    margin-right: auto;
+    border-radius:20px;
+      text-transform: capitalize;
+        font-family: times new roman;
+}
+
+h1{
+  color:white;
+  font-size: 80px;
+  text-transform: capitalize;
+  text-align: center;
+  background-color:grey;
+  font-family: times new roman;
+}
+input{
+  border:0.8px solid blue;
+    border-radius:20px;
+    padding:10px;
+    text-align: center;
+  cursor: pointer;
+}

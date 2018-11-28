@@ -1,0 +1,159 @@
+
+#calling{
+    display:block;
+    text-align: center;
+}
+h3{
+
+    color:white;
+    font-family:agency fb;
+    font-size:40px;
+    background-color: darkslategrey;
+    text-transform: capitalize;
+    text-align: center;
+}
+#hg{
+
+  color:white;
+  font-family:agency fb;
+  font-size:70px;
+  background-color: darkslategrey;
+  text-transform: capitalize;
+}
+table {
+display:inline-block;
+background-color: darkslategrey;
+   color: #588c7e;
+
+   font-family: agency fb;
+margin-bottom:10px;
+   text-align: center;
+     }
+  th {
+   background-color: #588c7e;
+   color: white;
+      font-size: 35px;
+      text-transform: capitalize;
+    }
+  tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  td{
+       font-size: 20px;
+     border:0.5px solid white;
+     padding:0px;
+     text-transform: capitalize;
+  }
+
+  footer{
+  font-family:agency fb;
+    background:darkslategrey;
+    text-align: center;
+    color: white;
+    font-size:30px;
+    bottom:
+  }
+
+  #pop{
+    color:white;
+    text-decoration:none;
+      text-shadow: 2px 2px 2px limegreen;
+          color: #F2FF33;
+          float:right;
+  }
+
+  #dash{
+margin-left:300px;
+
+    color: #F2FF33;
+
+      text-decoration: none;
+      font-family: agency fb;
+
+
+      text-transform: capitalize;
+      text-shadow: 2px 2px 2px limegreen;
+
+
+
+  }
+  /* The Modal (background) */
+  .modal {
+      display: none; /* Hidden by default */
+      position: fixed; /* Stay in place */
+      z-index: 1; /* Sit on top */
+      padding-top: 50px; /* Location of the box */
+      left: 0;
+      top: 0;
+      width: 100%; /* Full width */
+      height: 100%; /* Full height */
+      overflow: auto; /* Enable scroll if needed */
+      background-color: rgb(0,0,0); /* Fallback color */
+      background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+  }
+
+  /* Modal Content */
+  .modal-cont {
+      background-color: #fefefe;
+      margin: auto;
+      padding: 20px;
+      border: 1px solid #888;
+      width: 80%;
+  }
+
+  /* The Close Button */
+  .close {
+      color: #aaaaaa;
+      float: right;
+      font-size: 40px;
+      font-weight: bold;
+  }
+
+  .close:hover,
+  .close:focus {
+      color: #000;
+      text-decoration: none;
+      cursor: pointer;
+  }
+
+  body{
+      background-image: url(computer-desk-email-7112);
+      background-size: cover;
+      background-attachment: fixed;
+  }
+  #pol{
+
+  }
+input{
+    display:block;
+    margin-left:150px;
+    margin:10px;
+    text-align: center;
+    width:400px;
+    height:20px;
+}
+#p{
+  float: left;
+    margin:10px;
+   display: inline-block;
+   font-size: 30px;
+    width:400px;
+    text-align: justify;  font-family:agency fb;
+}
+#q{
+  margin:10px;
+  display: inline-block;
+   font-size: 30px;
+  font-family:agency fb;
+       width:400px;
+    text-align: justify;
+  }
+    textarea{
+    text-align: center;
+    width:400px;
+   height: 40px;
+}
+#tom{
+  height:390px;
+
+}

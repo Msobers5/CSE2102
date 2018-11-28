@@ -1,0 +1,35 @@
+body{
+    background-color: grey;
+}
+div{
+    border:5px solid black;
+   width:99.5%;
+    height:98%;
+    background-image: url(champagne-cork-1350404_960_720.jpg);
+}
+#header{
+    margin:10px;
+    height:60px;
+    width:98%;
+    background:white;
+}
+#content{
+    height:480px;
+    width:98%;
+    position: relative;
+    background:grey;
+    margin:10px;
+}
+h1{
+    text-align: center;
+}
+#footer{
+    width:96.5%;
+    margin:10px;
+    bottom:10px;
+    position: absolute;
+    height:50px;
+     background:white;
+    text-align: center;
+    font-size:45px;
+}
